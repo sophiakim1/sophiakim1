@@ -38,5 +38,11 @@ I’m currently building my skills in ✨Java & Python ✨
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
   <br>
-   
+
+
+<hr>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiakim1&count_private=true&theme=gruvbox&hide_border=true)	
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiakim1&show_icons=true&hide_border=true&layout=compact&theme=gruvbox)
 </div>
