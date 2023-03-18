@@ -8,7 +8,7 @@ I love to build user-friendly interfaces by writing clean, dry, and accessible c
 While I'm not coding, I like to travel and drink iced latte !
 <br>
 <br>
-I’m currently building my skills in ✨Java & Python ✨ in South Korea.
+I’m currently building my skills in ✨Java & Python ✨
 <br>
 <br>
 👀 You can visit my [portfolio](https://www.sophiakim.ca)
