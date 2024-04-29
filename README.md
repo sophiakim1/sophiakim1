@@ -5,10 +5,10 @@
 
 I love to build user-friendly interfaces by writing clean, dry, and accessible code 💻 
 <br>
-While I'm not coding, I like to travel and drink iced latte !
+While I'm not coding, I like to travel and drink iced latte ! My next destination is Spain ✈️
 <br>
 <br>
-I’m currently building my skills in ✨Java & Python ✨
+I’m currently building my skills in ✨TypeScript ✨ developing an application for my client
 <br>
 <br>
 👀 You can visit my [portfolio](https://www.sophiakim.ca)
