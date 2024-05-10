@@ -1,4 +1,4 @@
-**👋 Hi, I’m Sophia, a Full-Stack Developer based in Toronto, ON**
+**👋 Hi, I’m Sophia, a Web Developer based in Toronto, ON**
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/97867479/199143926-0543ad7c-9cc0-452d-b23a-471c1fa1db44.png)
